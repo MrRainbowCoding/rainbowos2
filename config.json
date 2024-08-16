@@ -1,0 +1,28 @@
+{
+    "apps": [
+        "apps/fsapp.app",
+        "apps/ashell.app",
+        "apps/theuniverse.app",
+        "apps/spotify.music",
+        "apps/fafgames.app",
+        "apps/whiteboard.app",
+        "apps/sudo.flix",
+        "apps/anura.ide"
+    ],
+    "libs": [
+        "/apps/libfileview.lib",
+        "/apps/libfilepicker.lib",
+        "/apps/libstore.lib",
+        "/apps/libpersist.lib",
+        "/apps/libphoenix.lib"
+    ],
+    "defaultsettings": {
+        "use-sw-cache": false,
+        "applist": ["anura.settings", "anura.fsapp"],
+        "clampWindows": true,
+        "launcher-keybind": true,
+        "relay-url": "wss://relay.widgetry.org/"
+    },
+    "x86": {
+    }
+}

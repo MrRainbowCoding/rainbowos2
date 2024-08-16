@@ -1,0 +1,9 @@
+{
+  "name": "Phoenix Shell",
+  "icon": "term.png",
+  "package": "anura.shell.phoenix",
+  "versions": {
+    "0.2.4": "bundle.mjs"
+  },
+  "currentVersion": "0.2.4"
+}

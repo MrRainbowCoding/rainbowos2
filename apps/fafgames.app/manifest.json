@@ -1,0 +1,12 @@
+{
+    "name": "Games",
+    "type": "auto",
+    "package": "fafgames.app",
+    "index": "index.html",
+    "icon": "icon.png",
+    "wininfo": {
+        "title": "Games",
+        "width": "1200px",
+        "height": "700px"
+    }
+}

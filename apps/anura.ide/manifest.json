@@ -1,0 +1,12 @@
+{
+    "name": "IDE",
+    "type": "auto",
+    "package": "anura.ide",
+    "index": "index.html",
+    "icon": "ide.png",
+    "wininfo": {
+        "title": "IDE",
+        "width": "700px",
+        "height": "500px"
+    }
+}
