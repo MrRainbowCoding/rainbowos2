@@ -1,0 +1,12 @@
+{
+    "wallpapers": [
+        {
+            "name": "Nocturne",
+            "url": "/assets/wallpaper/bundled_wallpapers/Nocturne.jpg"
+        },
+        {
+            "name": "ChromeOS Default",
+            "url": "/assets/wallpaper/bundled_wallpapers/Default.jpg"
+        }
+    ]
+}
